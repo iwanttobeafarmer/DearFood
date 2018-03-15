@@ -1,3 +1,1 @@
 # DearFood
-
-## Hello Git
