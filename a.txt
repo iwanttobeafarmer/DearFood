@@ -1,4 +1,4 @@
-新的分支newdd  开始在dd上提交
+新的分支newdd
 aaa
 ddd
 ee
